@@ -38,7 +38,7 @@
   <a href="https://www.php.net/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40"/>
   </a>
-  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"> 
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -53,9 +53,3 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
-
-------
-
-[BrantLauro](https://github.com/BrantLauro)
-
-Last Edited on: 05/08/2021
