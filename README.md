@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Gouveia <img height="40" src="https://64.media.tumblr.com/3848e5ce9550ab723c4c17ae5c2c830d/cbbf628e3f78039b-9c/s1280x1920/b184a988a5bd644f8a98544c2624d362aef3094c.gifv"></h1>
-<h3 align="center">I am a Front Back End Developer!</h3>
+<h3 align="center">I am a Front-Back End Developer!</h3>
 
 <!-- - 🔭 I’m currently working on my **Python Course** -->
 
