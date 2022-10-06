@@ -45,7 +45,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="C#" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+   <a href="https://www.adobe.com/?mv=affiliate&mv2=red" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+   <a href="https://www.adobe.com/?mv=affiliate&mv2=red" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/?mv=affiliate&mv2=red" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="AfterEffects" width="40" height="40"/>
   </a>
 </p>
 
