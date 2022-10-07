@@ -60,4 +60,4 @@
 </p>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoGouveia24&theme=dracula)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGouveia24&layout=compact)](https://github.com/JoaoGouveia24/github-readme-stats)
