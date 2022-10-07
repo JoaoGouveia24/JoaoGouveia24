@@ -59,5 +59,5 @@
   </a>
 </p>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoGouveia24&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoGouveia24&theme=synthwave)
 
