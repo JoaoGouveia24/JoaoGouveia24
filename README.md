@@ -62,6 +62,6 @@
 
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGouveia24&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGouveia24&show_icons=true&theme=radical)<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGouveia24&layout=compact)](https://github.com/JoaoGouveia24/github-readme-stats)
 </div>
