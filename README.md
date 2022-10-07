@@ -58,11 +58,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="AfterEffects" width="40" height="40"/>
   </a>
 </p>
-JoaoGouveia24
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<div align="center">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGouveia24&show_icons=true&theme=radical)
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+</div>
