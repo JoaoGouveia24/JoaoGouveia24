@@ -59,6 +59,5 @@
   </a>
 </p>
 
-<p align= "center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoGouveia24&theme=radical)
-</p>
+
