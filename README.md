@@ -59,5 +59,9 @@
   </a>
 </p>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoGouveia24&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGouveia24&layout=compact)](https://github.com/JoaoGouveia24/github-readme-stats)
+<a href="https://github.com/JoaoGouveia24/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoGouveia24&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/JoaoGouveia24/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoGouveia24&repo=convoychat" />
+</a>
