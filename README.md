@@ -3,20 +3,19 @@
 
 <!-- - 🔭 I’m currently working on my **Python Course** -->
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **React & Angular**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **joao.daniel.gouveia2001@gmail.com**
 
-- ⚡ What I like to do: **I like to play videogames with friends and Eat!**
+- ⚡ What I like to do: **I like to learn new technologies, go outside being with friends and i love coffee! ☕**
 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gouveia-8496131b6/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itzgouveiaa/)
 
 </div>
 
