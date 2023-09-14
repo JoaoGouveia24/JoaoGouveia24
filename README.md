@@ -3,13 +3,13 @@
 
 <!-- - 🔭 I’m currently working on my **Python Course** -->
 
-- 🌱 I’m currently learning **React & Angular**
+- 🌱 I’m currently learning **React & Flutter**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **joao.daniel.gouveia2001@gmail.com**
 
-- ⚡ What I like to do: **I like to learn new technologies, go outside being with friends and i love coffee! ☕**
+- ⚡ What I like to do: **I like to learn new technologies, go outside being with friends and drink some coffee! ☕**
 
 
 <h3 align="center">Connect with me:</h3>
