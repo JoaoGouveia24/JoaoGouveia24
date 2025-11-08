@@ -12,7 +12,7 @@
 
 ### 🧠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,c#,js,linux,bash,kali,docker,git" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,cs,js,linux,bash,kali,docker,git" height="48" />
 </div>
 
 ---
