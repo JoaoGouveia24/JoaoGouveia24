@@ -6,6 +6,7 @@
 
 <p align="center">
   Future cibersecurity focused on pentest...
+  <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoGouveia24.JoaoGouveia24&"  />
 </p>
 
@@ -26,17 +27,9 @@
 
 ### 🌐 Connect with Me
 <div align="left">
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/jo%C3%A3o-gouveia-8496131b6/)/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://discord.com](https://discord.com/users/tezaenz)/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/pacman-contribution-graph.svg">
-</picture>
 
 
 <br clear="both">
