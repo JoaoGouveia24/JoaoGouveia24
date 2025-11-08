@@ -2,23 +2,12 @@
 
 <p align="center">
   Future cibersecurity focused on pentest...
-</p>
-<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoGouveia24.JoaoGouveia24&"  />
-</div>
----
+</p>
 
 ### 🧠 Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,c,linux,bash" height="48" />
-</div>
-
----
-
-### 🌐 Connect with Me
-<div align="center">
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 ---
@@ -31,7 +20,14 @@
 
 ---
 
+### 🌐 Connect with Me
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoGouveia24.JoaoGouveia24&"  />
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
-<img src="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/snake.svg" alt="Snake animation" />
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/snake.svg" alt="Snake animation" />
+</div>
