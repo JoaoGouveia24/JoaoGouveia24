@@ -21,13 +21,15 @@
 ---
 
 ### 🌐 Connect with Me
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/pacman-contribution-graph.svg">
+</picture>
