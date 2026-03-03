@@ -20,7 +20,7 @@
 ### 📊 GitHub Highlights
 <div align="center">
   <br>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/DonnyS.png" alt="Your Image Badge" />
+    
 </div>
 
 ---
