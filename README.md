@@ -6,8 +6,9 @@
 
 <p align="left">
   Future cibersecurity focused on pentest...
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoaoGouveia24.JoaoGouveia24&"  />
 </p>
+
+---
 
 ### 🧠 Tech Stack
 <div align="center">
