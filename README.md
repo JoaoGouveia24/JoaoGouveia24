@@ -4,10 +4,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%91%8B%20Hey!%20Welcome%20to%20my%20GitHub&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&desc=Im%20Joao%20Gouveia&descSize=17&descAlign=50&descAlignY=75&textBg=false&color=gradient"  />
 </div>
 
-<p align="center">
+<p align="left">
   Future cibersecurity focused on pentest...
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoGouveia24.JoaoGouveia24&"  />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoaoGouveia24.JoaoGouveia24&"  />
 </p>
 
 ### 🧠 Tech Stack
