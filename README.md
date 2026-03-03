@@ -34,6 +34,8 @@
 </a>
 </div>
 
+---
+
 ### 👾 Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoGouveia24/JoaoGouveia24/output/pacman-contribution-graph-dark.svg">
